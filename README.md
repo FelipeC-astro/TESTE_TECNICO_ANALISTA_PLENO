@@ -4,7 +4,7 @@
 Analisar os dados fornecidos e responder às perguntas propostas.
 
 ## Ferramentas utilizadas
-- Python
+- Python 3.13.9
 - Pandas
 - NumPy
 - Matplotlib
