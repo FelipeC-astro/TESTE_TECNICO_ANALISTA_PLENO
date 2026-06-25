@@ -8,8 +8,10 @@ Analisar os dados fornecidos e responder às perguntas propostas.
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 - Duckdb
+- Scikit-learn
 
 ## Como executar
 
